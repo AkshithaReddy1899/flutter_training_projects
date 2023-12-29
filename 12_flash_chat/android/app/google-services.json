@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822575573638",
+    "project_id": "flash-chat-7cbb8",
+    "storage_bucket": "flash-chat-7cbb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822575573638:android:c45a92f41beeb9744e3f07",
+        "android_client_info": {
+          "package_name": "com.akshitha_Reddy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822575573638-k2llom20bhrll2nbh6d8k0p98osbra3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1VNcNX20SaV5sdQcJiHeb9wQD2E3fck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822575573638-k2llom20bhrll2nbh6d8k0p98osbra3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
